@@ -1,4 +1,4 @@
-<h1>Python Snake Game #P002</h1>
+<h1>Snake Game #P002</h1>
 
 <h2>Description</h2>
 Remake of 'Snake' using python
